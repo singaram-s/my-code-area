@@ -1,0 +1,72 @@
+
+
+.container {
+height:900px;
+width:1650px;
+background-image:url('bg3.jpg');
+background-repeat:no-repeat;
+float:left;
+}
+h1{
+color:MintCream;
+margin-left:50px;
+margin-top:25px;
+}
+
+.registration {
+
+height:700px;
+width:700px;
+float:left;
+margin-top:50px;
+margin-left:155px;
+opacity:0.8;
+border:1px solid LemonChiffon;
+}
+
+.login {
+
+height:700px;
+width:700px;
+float:left;
+margin-top:50px;
+margin-left:0px;
+opacity:0.8;
+border:2px solid LemonChiffon;
+}
+}
+
+.fm {
+margin-left:80px;
+margin-top:20px;
+}
+
+.textbox {
+border: 2px SeaGreen;
+height:30px;
+width:300px;
+margin-left:30px;
+margin-top:50px;
+font-size:25px;
+color:Grey;
+}
+
+.radiobox {
+border: 2px solid SeaGreen;
+margin-left:4px;
+margin-top:30px;
+height:10px;
+width:10px;
+}
+
+.button {
+background-color:MintCream;
+opacity:0.9;
+margin-top:40px;
+margin-left:100px;
+height:30px;
+width:100px;
+border:none;
+color:Crimson;
+font-size:20px;
+}
